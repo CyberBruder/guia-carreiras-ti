@@ -3,7 +3,7 @@
 ```
  ┌──────────────────────────────────────────────┐
  │  $ whoami                                    │
- │  > JustBruder                                │
+ │  > CyberBruder                                │
  │  $ cat stack.txt                             │
  │  > Java · Spring Boot · Python · Docker      │
  │  > CI/CD · DevSecOps                         │
@@ -15,7 +15,7 @@
 
 **Explore áreas, descubra afinidades, escolha o próximo passo.**
 
-*© Brasil · 2026 — [✨ JustBruder ✨](https://github.com/JustBruder)*
+*© Brasil · 2026 — [✨ JustBruder ✨](https://github.com/CyberBruder)*
 
 ![Back-end](https://img.shields.io/badge/foco-back--end-FF2A85?style=flat-square&labelColor=D81B60)
 ![DevSecOps](https://img.shields.io/badge/foco-DevSecOps-FF9ECA?style=flat-square&labelColor=FF007F)
