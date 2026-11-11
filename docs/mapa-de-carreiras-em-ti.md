@@ -932,7 +932,7 @@ Em vez de escolher uma carreira no escuro, experimentem várias por poucos dias.
 **Boa exploração! A ideia não é encontrar uma resposta em um dia — é descobrir, experimentando, quais caminhos fazem sentido para vocês.**
 
 <div align="center">
-  <sub>Desenvolvido por JustBruder ✨</sub>
+  <sub>Desenvolvido por Bruder ✨</sub>
 </div>
 <div align="center">
   <sub>🌷🐱 Código limpo e MEOW </sub>
