@@ -67,3 +67,20 @@ Em segurança ofensiva, pratique **apenas** em sistemas próprios ou ambientes e
 ## Contribuindo
 
 Achou algo desatualizado ou quer sugerir uma área? Abra uma **issue** ou um **pull request**.
+
+### 💻 Contate-me / Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ingrid-bruder" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ibruder83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-C71585?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@JustBruder" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-C71585?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+</p>
