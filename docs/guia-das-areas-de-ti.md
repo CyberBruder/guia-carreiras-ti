@@ -799,7 +799,7 @@ Todas as áreas lado a lado (salários CLT estimados, em R$ mil por mês).
 - Decidir em cerca de 30 a 60 dias e montar um plano de estudo de 6 meses.
 
 <div align="center">
-  <sub>Desenvolvido por JustBruder ✨</sub>
+  <sub>Desenvolvido por Bruder ✨</sub>
 </div>
 <div align="center">
   <sub>🌷🐱 Código limpo e MEOW </sub>
