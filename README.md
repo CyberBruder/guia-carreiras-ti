@@ -48,6 +48,8 @@ TI é gigante e vai muito além de "saber programar". Eu e outras pessoas começ
 4. Decida em 30 a 60 dias e monte um plano de estudos de 6 meses
 ```
 
+💖✨️ **[Faça o teste: qual área de TI combina com você?](https://cyberbruder.github.io/guia-carreiras-ti/)**
+
 ## Uma rota que 💖eu💖 curto
 
 Entre as rotas do mapa, a que mais me representa:
