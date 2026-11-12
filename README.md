@@ -7,13 +7,15 @@
  │  $ cat stack.txt                             │
  │  > Java · Spring Boot · Python · Docker      │
  │  > CI/CD · DevSecOps                         │
- │  $ ./mapa-de-carreiras --ti --brasil-2026 🌷  │
+ │  $ ./mapa-de-carreiras --ti --brasil-2026    │
  └──────────────────────────────────────────────┘
 ```
 
-# 🗺️ Mapa de Carreiras em TI
+# Mapa de Carreiras em TI
 
 **Explore áreas, descubra afinidades, escolha o próximo passo.**
+
+**[💖 Faça o teste: qual área de TI combina com você? ✨️](https://cyberbruder.github.io/guia-carreiras-ti/)**
 
 *© Brasil · 2026 — [✨ JustBruder ✨](https://github.com/CyberBruder)*
 
@@ -48,13 +50,7 @@ TI é gigante e vai muito além de "saber programar". Eu e outras pessoas começ
 4. Decida em 30 a 60 dias e monte um plano de estudos de 6 meses
 ```
 
----
-
-**[Faça o teste: qual área de TI combina com você?](https://cyberbruder.github.io/guia-carreiras-ti/)**
-
----
-
-## Uma rota que 💖eu💖 curto
+## Uma rota que >eu< curto
 
 Entre as rotas do mapa, a que mais me representa:
 
